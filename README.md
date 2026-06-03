@@ -21,4 +21,10 @@ Jeden Tag: eine Markdown-Datei
 tag1.md bis tag7.md — Was gelernt? Welches Problem? Wie gelöst?
 Branch anlegen & PR mergen
 Mindestens einen Feature-Branch + Pull Request auf sich selbst
+
+## ACHTUNG:
+
+Ich werde 1-2 Pull Requests erstellen und danach nur noch per ```git push``` direkt in den main Branch pushen.
+Grund: ICh arbeite alleine am Repository und Pull Requests sind ein Overhead!
+ 
  
