@@ -25,6 +25,7 @@ Mindestens einen Feature-Branch + Pull Request auf sich selbst
 ## ACHTUNG:
 
 Ich werde 1-2 Pull Requests erstellen und danach nur noch per ```git push``` direkt in den main Branch pushen.
-Grund: ICh arbeite alleine am Repository und Pull Requests sind ein Overhead!
+
+Grund: Ich arbeite alleine am Repository und Pull Requests sind ein Overhead!
  
  
